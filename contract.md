@@ -5,9 +5,9 @@ Demo Grading Contract
 
 # Contract Grades – “A” Contract
 
-I, John Tukey, agree to :
+I, Marcus Minko, agree to :
 
-1.  Earn “Satisfactory” on 12 self-paced lab assignments on the schedule
+1.  Earn “Satisfactory” on 11 self-paced lab assignments on the schedule
     specified below.
     -   Satisfactory defined:
     -   I have attempted all steps of the assignment. If unable to
